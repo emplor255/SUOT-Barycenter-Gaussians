@@ -33,7 +33,7 @@ To draw the barycenter in Section 5, run this jupyter notebook:
 2. Estimate convergence
 
 <p align="center">
-  <img src="SUOT_Barycenter\Image\demo_1.png" alt="Demo" width="800">
+  <img src="SUOT_Barycenter\Image\demo_2.png" alt="Demo" width="800">
 </p>
 
 To estimate convergence of optimization methods, run this Python file
