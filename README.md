@@ -20,7 +20,9 @@ pip install -r requirements.txt
 ## Running the codes
 1. Drawing barycenter 
 
-<img src="SUOT_Barycenter\Image\demo_1.png" alt="Demo" width="600">
+<p align="center">
+  <img src="SUOT_Barycenter\Image\demo_1.png" alt="Demo" width="850">
+</p>
 
 To draw the barycenter in Section 5, run this jupyter notebook:
 
@@ -30,7 +32,9 @@ To draw the barycenter in Section 5, run this jupyter notebook:
 
 2. Estimate convergence
 
-<img src="SUOT_Barycenter\Image\demo_2.png" alt="Demo" width="600">
+<p align="center">
+  <img src="SUOT_Barycenter\Image\demo_1.png" alt="Demo" width="800">
+</p>
 
 To estimate convergence of optimization methods, run this Python file
 
