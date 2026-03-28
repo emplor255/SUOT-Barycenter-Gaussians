@@ -1,5 +1,5 @@
 # On Barycenter Computation: Analyzing Semi-Unbalanced Optimal Transport-based Method on Bures-Wasserstein manifold
-This is the official implementation of [On Barycenter Computation: Analyzing Semi-Unbalanced Optimal Transport-based Method on Bures-Wasserstein manifold]
+This is the official implementation of [On Barycenter Computation: Analyzing Semi-Unbalanced Optimal Transport-based Method on Bures-Wasserstein manifold] - Accepted Paper at AISTATS 2026
 
 
 ## Installation
